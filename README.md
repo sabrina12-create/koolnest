@@ -12,7 +12,7 @@ Tujuan Proyek:
 Fitur-ftur utama aplikasi dashboard Anda: 
 - Pembersih data file otomatis. 
 - Filter data tanggal, platform, sentimen, dan jenis media dari file untuk mempermudah pencaharian. 
-- Pembuatan empat grafik interaktif dan berwarna untuk memvisualisasikan data dari file yang sudah dibersihkan dan dirapihkan. 
+- Pembuatan 5 grafik interaktif dan berwarna untuk memvisualisasikan data dari file yang sudah dibersihkan dan dirapihkan. 
 - Adanya tiga wawasan Utama tiap grafik untuk mempermudah pembacaan poin-poin penting.
 - Analisis file data menggunakan AI Gemini atau OpenRouter AI yang bebas dipilih. 
 - Mengunduh grafik, wawasan Utama tiap grafik, dan hasil analisis file data dalam bentuk laporan PDF. 
